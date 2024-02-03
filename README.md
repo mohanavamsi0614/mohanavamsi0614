@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mohanavamsi0614
 - 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning Full stack
+- 🌱 I’m currently learning Full stack web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mohanavamsi14@gmai.com
+- 📫 How to reach me mohanavamsi14@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
