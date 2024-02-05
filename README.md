@@ -5,6 +5,7 @@
 - 📫 How to reach me mohanavamsi14@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <a href="https://app.daily.dev/mohanavamsi"><img src="https://api.daily.dev/devcards/2c0dbb88f5244b7392715326c1efde0d.png?r=jvg" width="400" alt="Mohana Vamsi's Dev Card"/></a>
 
 <!---
 mohanavamsi0614/mohanavamsi0614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
