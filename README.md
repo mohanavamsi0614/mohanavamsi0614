@@ -5,10 +5,12 @@
 - 📫 How to reach me mohanavamsi14@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
   <style>
     .lang{
       display:flex;
       justify-content:space-evenly;
+      align-items:spread;
     }
   </style>
 <div class="lang">
