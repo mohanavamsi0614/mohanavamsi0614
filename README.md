@@ -10,7 +10,7 @@
     .lang{
       display:flex;
       justify-content:space-evenly;
-      align-items:spread;
+      align-items:stretch;
     }
   </style>
 <div class="lang">
