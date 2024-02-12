@@ -5,6 +5,10 @@
 - 📫 How to reach me mohanavamsi14@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  <div>
+<img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"></img>
+<img src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png"></img>  
+</div>
 
 <!---
 mohanavamsi0614/mohanavamsi0614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
