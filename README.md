@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   <div>
-<img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"></img>
-<img src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png"></img>  
+<img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png"  width=10%></img>
+<img src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" width=10%></img>  
 </div>
 
 <!---
