@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohana vamsi gangisetti</h1>
+<h1 align="center">Hey 😀, I'm Mohana vamsi gangisetti</h1>
 <h3 align="center">A passionate Full-stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanavamsi0614&label=Profile%20views&color=0e75b6&style=flat" alt="mohanavamsi0614" /> </p>
