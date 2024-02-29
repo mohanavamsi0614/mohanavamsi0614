@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanavamsi0614" alt="mohanavamsi0614" /></a> </p>
 
-- 🔭 I’m currently working on **A chat app**
+- 🔭 I’m currently working on **A chat app and a project mixed with astrology and space technology called Nakshitra**
 
 - 💬 Ask me about **React,web development, python**
 
